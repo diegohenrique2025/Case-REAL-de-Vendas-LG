@@ -23,7 +23,12 @@ A empresa LG precisava visualizar e entender o comportamento de suas vendas nos 
 3. **Eficiência por PDV**: Identificação de lojas com alto fluxo, mas ticket médio abaixo da média da rede.
 
 ## 📊 Visualização
-*(Insira aqui os prints do seu projeto)*
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/92f0c580-24ae-420d-a232-8c35ef4bd7ac" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c6ec2f81-e636-4bf3-a0eb-9d914cff323e" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/30bc2f1b-52d2-4f28-9561-3245f82ec8d7" />
+
+
+
 ![Dashboard LG](screenshots/dashboard_principal.png)
 
 ## 📁 Tecnologias Utilizadas
